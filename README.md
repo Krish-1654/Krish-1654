@@ -21,7 +21,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Krish's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Krish-1654&show_icons=true&theme=radical&hide_border=true" alt="Krish's GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -64,12 +64,12 @@
 ## 📊 My GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-1654&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-1654&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Krish-1654&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
